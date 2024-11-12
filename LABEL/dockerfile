@@ -1,0 +1,5 @@
+FROM almalinux:9
+LABEL author="siri" \
+      company="devops practice" \
+      topic="dockerfiles" \
+      duration="2hrs"
